@@ -24,7 +24,8 @@ const details = {
     'graphql',
     'figma',
     'design patterns',
-    'algorithm & flowchart'
+    'algorithm & flowchart',
+    'python'
   ],
   url's :
   {
