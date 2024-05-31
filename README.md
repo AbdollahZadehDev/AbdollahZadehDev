@@ -31,8 +31,7 @@ const details = {
   {
     resume : '',
     website : '',
-    instagram : 'https://instagram.com/myid',
-    linkedin : 'https://linkedin.com/myid'
+    linkedin : 'https://www.linkedin.com/in/SaharAbdollahzadeh'
   }
 }
 ```
