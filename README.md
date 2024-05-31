@@ -8,7 +8,7 @@ const details = {
   name : 'Sahar',
   family : 'Abdollah Zadeh',
   age : '24',
-  address : 'IRAN - Babol',
+  address : 'IRAN - Tehran',
   degree : 'Master Of Software Engineering',
   university : 'Noshirvani',
   skill's :
